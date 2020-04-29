@@ -2,7 +2,7 @@
 
 Usage:
 
-Create an onject:
+Create an object:
 
 ```
 cdn = BunnyCDN('ACCESS KEY')
